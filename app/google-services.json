@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063429520124",
+    "project_id": "wahanakarsa-a23c7",
+    "storage_bucket": "wahanakarsa-a23c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063429520124:android:111c9c0faf110dcc537579",
+        "android_client_info": {
+          "package_name": "com.id.wahanakarsa.absensi_wahanakarsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063429520124-24d53siijf39lrj7t1i29i4c7fddf8su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxG3iHJw-mtcEtgN_xC0XbclKjEwAz83I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063429520124-24d53siijf39lrj7t1i29i4c7fddf8su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
